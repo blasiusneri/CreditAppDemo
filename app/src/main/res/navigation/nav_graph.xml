@@ -19,7 +19,5 @@
         android:id="@+id/step2Fragment"
         android:name="com.blas.creditappdemo.ui.form.view.Step2Fragment"
         android:label="Step 2"
-        tools:layout="@layout/fragment_step2">
-    </fragment>
-
+        tools:layout="@layout/fragment_step2" />
 </navigation>
